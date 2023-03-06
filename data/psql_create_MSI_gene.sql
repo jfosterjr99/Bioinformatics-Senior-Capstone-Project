@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS MSI_gene;
+CREATE TABLE MSI_gene
+(
+  gene_name VARCHAR(20) NOT NULL,
+  MSI_val FLOAT(10) NOT NULL
+);
