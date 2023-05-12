@@ -1,0 +1,11 @@
+DBI
+RODBC
+odbc
+dplyr
+dbplyr
+RPostgreSQL
+shiny
+shinythemes
+markdown
+DT
+tidyverse
